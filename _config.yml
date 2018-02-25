@@ -1,8 +1,8 @@
 name: "Liye's Blog"
 
 url: "http://dongliye.cn/blog"
-loadingImg: "http://zhangwenli.com/blog/img/loading.gif"
-filePath: "http://zhangwenli.com/blog/img/"
+loadingImg: "http://dongliye.cn/blog/img/loading.gif"
+filePath: "http://dongliye.cn/blog/img/"
 
 timezone: Asia/Shanghai
 
