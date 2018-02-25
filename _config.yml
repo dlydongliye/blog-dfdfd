@@ -1,7 +1,7 @@
 name: "Blog of Wenli Zhang"
 description: "Web Front-End Blog by Wenli Zhang"
 
-url: "http://dongliye.cn/test"
+<---url: "http://dongliye.cn/test"--->
 loadingImg: "http://zhangwenli.com/blog/img/loading.gif"
 filePath: "http://zhangwenli.com/blog/img/"
 
