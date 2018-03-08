@@ -1,0 +1,20 @@
+name: "Liye's Blog"
+
+url: "http://dongliye.cn/blog"
+loadingImg: "http://dongliye.cn/blog/img/loading.gif"
+filePath: "http://dongliye.cn/blog/img/"
+
+timezone: Asia/Shanghai
+
+paginate: 16
+paginate_path: "/page:num"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+highlighter: rouge
+
+permalink: pretty
+
+gems:
+- jekyll-paginate
