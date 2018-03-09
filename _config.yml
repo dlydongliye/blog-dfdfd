@@ -1,20 +1,11 @@
-name: "Liye's Blog"
+auto: true
 
+#markdown: rdiscount
+highlighter: 'pygments'
+#paginate: 8
+permalink: /:title
+
+title: Hyper Hamster
 url: "http://dongliye.cn/blog"
-loadingImg: "http://dongliye.cn/blog/img/loading.gif"
-filePath: "http://dongliye.cn/blog/img/"
-
-timezone: Asia/Shanghai
-
-paginate: 16
-paginate_path: "/page:num"
-
-markdown: kramdown
-kramdown:
-  input: GFM
-highlighter: rouge
-
-permalink: pretty
-
-gems:
-- jekyll-paginate
+feed: /atom.xml
+author_info: <a href="http://dongliye.cn/">Mukosame</a>
